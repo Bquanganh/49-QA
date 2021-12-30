@@ -129,3 +129,42 @@ li{
     margin: 0 auto;
 }
 
+.product__container{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.caption{
+    text-align: center;
+}
+.product__container a{
+    text-decoration: none;
+}
+
+.col35{
+    margin-left: 35px;
+}
+
+.hot h1{
+    text-align: center;
+}
+
+.hot hr{
+    margin: 0 auto;
+}
+.hot h1{
+    color: #7fcbc9;
+}
+
+.hot__container{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.hot__container a{
+    text-decoration: none;
+}
+.hot__container img{
+    max-width: 80%;
+}
